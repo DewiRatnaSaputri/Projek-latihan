@@ -1,0 +1,20 @@
+table,tr,td{
+    background-color: black ;
+    font-family: arial ;
+    color: whitesmoke ;
+    border: 1px solid whitesmoke ;
+    padding: 5px;
+    border-collapse: collapse;
+}
+posisi{
+    position:absolute;
+    left: 50px;
+    right: 50px;
+    top: 50px;
+    bottom: 50px;
+}
+body{
+    background-image: url('bg.jpg');
+    background-repeat: no-repeat;
+    background-size: 1400px auto;
+}
